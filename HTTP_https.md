@@ -47,7 +47,6 @@
 In summary, HTTP is the protocol that powers web browsing. It’s how your browser and web servers communicate to fetch and display web content.
 
 =======
-=======
 
 The main difference between **HTTP** (HyperText Transfer Protocol) and **HTTPS** (HyperText Transfer Protocol Secure) is the **security** of the connection.
 
